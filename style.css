@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orange;
+    color: firebrick;
+    font-size: xx-large; /*It seems that custom sizes does not affect headers*/
+}
+
+h2 {
+    color: blue;
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.firma {
+    color: brown;
+    font-family: monospace;
+}
