@@ -9,3 +9,31 @@ h1 {
     color: chocolate;
 }
 
+.desc {
+    background-color: chocolate;
+    color: white;
+}
+
+p,
+.ing_list,
+.st_list {
+    background-color: antiquewhite;
+}
+
+.ingredients {
+    background-color: darkolivegreen;
+    color: whitesmoke;
+}
+
+.ing_list {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.steps {
+    background-color: steelblue;
+    color: whitesmoke;
+}
+
+.st_list {
+    font-family: 'Times New Roman', Times, serif;
+}
